@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "username": null,
+    "password": "password123",
+    "email": "alice.smith@example.com",
+    "fullName": "Alice Smith",
+    "role": "admin",
+    "ideas": [],
+    "comments": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "createdAt": "2024-12-01T20:27:17.890+00:00",
+    "updatedAt": "2024-12-01T20:27:17.890+00:00"
+  },
+  {
+    "id": 2,
+    "username": null,
+    "password": "password456",
+    "email": "bob.johnson@example.com",
+    "fullName": "Bob Johnson",
+    "role": "user",
+    "ideas": [],
+    "comments": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "createdAt": "2024-12-01T20:27:17.890+00:00",
+    "updatedAt": "2024-12-01T20:27:17.890+00:00"
+  },
+  {
+    "id": 3,
+    "username": null,
+    "password": "password789",
+    "email": "charlie.brown@example.com",
+    "fullName": "Charlie Brown",
+    "role": "user",
+    "ideas": [],
+    "comments": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "createdAt": "2024-12-01T20:27:17.890+00:00",
+    "updatedAt": "2024-12-01T20:27:17.890+00:00"
+  },
+  {
+    "id": 4,
+    "username": null,
+    "password": "password101",
+    "email": "diana.prince@example.com",
+    "fullName": "Diana Prince",
+    "role": "admin",
+    "ideas": [],
+    "comments": [],
+    "createdBy": null,
+    "updatedBy": null,
+    "createdAt": "2024-12-01T20:27:17.890+00:00",
+    "updatedAt": "2024-12-01T20:27:17.890+00:00"
+  }
+]

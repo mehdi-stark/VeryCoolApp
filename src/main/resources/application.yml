@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: VeryCool
+  groovy:
+    template:
+      check-template-location: false
+
+logging:
+  level:
+    org.hibernate.orm.connections.pooling: WARN
+    com.zaxxer.hikari: WARN

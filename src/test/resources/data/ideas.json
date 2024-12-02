@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Mon idée géniale",
+    "description": "Voici la description de mon idée innovante. Elle pourrait changer le monde !",
+    "nbLikes": 0,
+    "mediaUrl": "https://exemple.com/image.jpg",
+    "user": {
+      "id": 1
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mon idée géniale",
+    "description": "Voici la description de mon idée innovante. Elle pourrait changer le monde !",
+    "nbLikes": 0,
+    "mediaUrl": "https://exemple.com/image.jpg",
+    "user": {
+      "id": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Nouvelle idée",
+    "description": "Description d'une nouvelle idée.",
+    "nbLikes": 0,
+    "mediaUrl": "https://exemple.com/image.jpg",
+    "user": {
+      "id": 1
+    }
+  }
+]

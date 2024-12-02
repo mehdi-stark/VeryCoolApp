@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "content": "Great comment!",
+    "user": { "id": 1, "username": "user1" },
+    "idea": { "id": 1 }
+  },
+  {
+    "id": 2,
+    "content": "Another comment!",
+    "user": { "id": 2, "username": "user2" },
+    "idea": { "id": 1 }
+  }
+]
